@@ -1,0 +1,16 @@
+penjelasan anatomic dsign
+merupakan struktur isi didalam components
+
+srtuktur folder pada components menurut dsign atomic
+1. atom 
+2. molecules
+3. organism
+4. templets
+5. pages
+
+dan untuk menyesuaikannnya struktur folder bisa ubah menjadi 
+1. Elements
+2. molecules digabung dengan folder Elements juga tidak masalah
+3. fragments isinya sebuah form 
+4. layouts
+5. pages
